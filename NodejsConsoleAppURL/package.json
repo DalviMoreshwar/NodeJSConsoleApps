@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-console-app-url",
+  "version": "0.0.0",
+  "description": "NodejsConsoleAppURL",
+  "main": "app.js",
+  "author": {
+    "name": "mores",
+    "email": ""
+  },
+  "dependencies": {
+    "mssql": "^4.1.0"
+  }
+}
